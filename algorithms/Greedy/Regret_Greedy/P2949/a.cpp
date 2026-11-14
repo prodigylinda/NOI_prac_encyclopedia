@@ -10,18 +10,19 @@ int main(){
         cin>>all[i].first>>all[i].second;
     }
     long long ans=0;
-    vector<int> answer;
-    sort(all.begin(),all.end(),[](const pair<int,int>&a,const pair<int,int>& b){return a.second>b.second;});
+    priority_queue<int,vector<int>,greater<int>> answer;
+    sort(all.begin(),all.end(),[](const pair<int,int>&a,const pair<int,int>& b){return a.first<b.first;});
     for(int i=0;i<n;i++){
-        if(answer.empty()){
-            answer.push_back(all[i].first);
-            ans+=all[i].second;
-        }else if(count(answer.begin(),answer.end(),all[i].first)!=0){
-            continue;
-        }else{
-            answer.push_back(all[i].first);
-            ans+=all[i].second;
+        if(answer.empty()||answer.size()<all[i].first){
+            answer.push(all[i].second);
+        }else if(answer.top()<all[i].second){
+            answer.pop();
+            answer.push(all[i].second);
         }
+    }
+    while(answer.size()>0){
+        ans+=answer.top();
+        answer.pop();
     }
     cout<<ans<<endl;
     return 0;
