@@ -1,0 +1,17 @@
+DATA STRUCTURE CLASSIFICATION
+
+English structure names are used consistently.
+Templates: original user templates, kept byte-for-byte with their original filenames.
+Examples: existing learning examples copied from the source folder, not generated templates.
+Problems: solution folders copied from algorithms; original sources remain unchanged.
+One problem may appear under several structures when the stored code uses each of them.
+Arrays includes meaningful bucket, prefix, difference, sieve and DP table uses; merely
+using vector or reading input into an array does not qualify every problem for this folder.
+Heaps includes priority_queue. Ordered_Maps includes std::map, not hash tables.
+Trees includes parent-array tree representation. Graph_Representations includes adjacency lists.
+Classification follows the code that actually exists, not only a possible accepted solution.
+P8818 currently has no sparse-table implementation and P14363 has no trie/AC implementation,
+so these are not copied into Sparse_Tables, Tries or Aho_Corasick directories.
+No empty placeholder categories are created. Add types when a template or solution exists.
+Partial scores and incomplete implementations are documented in Problem_Index.csv.
+No code is repaired or certified correct as part of this file organization.

@@ -1,0 +1,12 @@
+CLASSIFICATION GUIDE
+
+Related problems share broad algorithm folders. Avoid one narrow folder per problem.
+Greedy_Algorithms separates Sorting_Greedy, Regret_Greedy and Interval_Greedy.
+Basic_Algorithms separates Simulation, Enumeration, Counting, Prefix_Sums and Divide_And_Conquer.
+Bit_Manipulation and String_Algorithms group related problems directly.
+Tree_DP, Counting_DP and Interval_DP remain separate because they use different state structures.
+Graph_Traversal and Minimum_Spanning_Trees remain separate graph algorithm types.
+Only categories that currently contain problems are shown; empty study placeholders are removed.
+Problem_Index.csv records secondary topics and source status.
+Existing_Code does not certify correctness or acceptance.
+Variants contains different original code versions; all original solution files are preserved.

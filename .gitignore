@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.o
+*.obj
+*.zip
+*.7z
+*.pyc
+__pycache__/
+.vscode/
+.DS_Store
+Thumbs.db
