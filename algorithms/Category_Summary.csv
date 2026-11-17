@@ -1,4 +1,5 @@
 "Category","Problem_Count","Problems"
+"Basic_Algorithms\Binary_Search","1","P1873"
 "Basic_Algorithms\Counting","1","P11231"
 "Basic_Algorithms\Divide_And_Conquer","1","P5019"
 "Basic_Algorithms\Enumeration","3","P7961;P7962;P9752"
@@ -16,5 +17,6 @@
 "Greedy_Algorithms\Interval_Greedy","2","P1803;P11232"
 "Greedy_Algorithms\Regret_Greedy","3","P2949;P4053;P14361"
 "Greedy_Algorithms\Sorting_Greedy","4","P1012;P1208;P1223;P14635"
+"Math\Number_Theory\Fast_Exponentiation","1","P1226"
 "Math\Number_Theory\Sieve_Algorithms","1","P7960"
 "String_Algorithms","2","P9868;P14363"
