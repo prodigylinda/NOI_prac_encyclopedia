@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "Data_Structure","Problem","Path","Source_Path","Source_Status","Evidence"
+=======
+﻿"Data_Structure","Problem","Path","Source_Path","Source_Status","Evidence"
+>>>>>>> bc445f2 (Update files)
 "Arrays","P11231","Arrays\Problems\P11231","Basic_Algorithms\Counting\P11231","Existing_Code","Frequency bucket array; also includes the sorting implementation."
 "Arrays","P3131","Arrays\Problems\P3131","Basic_Algorithms\Prefix_Sums\P3131","Existing_Code","Prefix-sum/remainder arrays and the first occurrence of each remainder."
 "Arrays","P14635","Arrays\Problems\P14635","Greedy_Algorithms\Sorting_Greedy\P14635","Existing_Code","Sorted array and prefix-sum array."
