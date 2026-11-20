@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 "Category","Problem_Count","Problems"
-=======
-﻿"Category","Problem_Count","Problems"
 "Basic_Algorithms\Binary_Search","1","P1873"
->>>>>>> bc445f2 (Update files)
 "Basic_Algorithms\Counting","1","P11231"
 "Basic_Algorithms\Divide_And_Conquer","1","P5019"
 "Basic_Algorithms\Enumeration","3","P7961;P7962;P9752"
@@ -18,13 +14,11 @@
 "Game_Theory","1","P8818"
 "Graph_Algorithms\Graph_Traversal","1","P3958"
 "Graph_Algorithms\Minimum_Spanning_Trees","1","P14362"
+"Graph_Algorithms\Topological_Sort","1","P7113"
 "Greedy_Algorithms\Interval_Greedy","2","P1803;P11232"
 "Greedy_Algorithms\Regret_Greedy","3","P2949;P4053;P14361"
 "Greedy_Algorithms\Sorting_Greedy","4","P1012;P1208;P1223;P14635"
-<<<<<<< HEAD
-=======
 "Math\Number_Theory\Fast_Exponentiation","1","P1226"
-"Math\Number_Theory\GCD_And_LCM","1","P17690"
->>>>>>> bc445f2 (Update files)
+"Math\Number_Theory\GCD_And_LCM","2","P3951;P17690"
 "Math\Number_Theory\Sieve_Algorithms","1","P7960"
 "String_Algorithms","2","P9868;P14363"

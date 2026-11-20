@@ -15,3 +15,5 @@ so these are not copied into Sparse_Tables, Tries or Aho_Corasick directories.
 No empty placeholder categories are created. Add types when a template or solution exists.
 Partial scores and incomplete implementations are documented in Problem_Index.csv.
 No code is repaired or certified correct as part of this file organization.
+
+Executables (.exe, case-insensitive) are excluded from local archives; source folders remain read-only.

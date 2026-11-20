@@ -10,3 +10,5 @@ Only categories that currently contain problems are shown; empty study placehold
 Problem_Index.csv records secondary topics and source status.
 Existing_Code does not certify correctness or acceptance.
 Variants contains different original code versions; all original solution files are preserved.
+
+Executables (.exe, case-insensitive) are excluded from local archives; source folders remain read-only.
