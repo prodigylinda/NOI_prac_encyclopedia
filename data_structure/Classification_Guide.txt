@@ -17,3 +17,5 @@ Partial scores and incomplete implementations are documented in Problem_Index.cs
 No code is repaired or certified correct as part of this file organization.
 
 Executables (.exe, case-insensitive) are excluded from local archives; source folders remain read-only.
+
+Ordered_Sets includes std::set used for active-variable membership or value deduplication; ordinary input vectors remain excluded.

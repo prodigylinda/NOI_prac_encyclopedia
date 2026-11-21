@@ -12,3 +12,5 @@ Existing_Code does not certify correctness or acceptance.
 Variants contains different original code versions; all original solution files are preserved.
 
 Executables (.exe, case-insensitive) are excluded from local archives; source folders remain read-only.
+
+Unclassified/Incomplete groups empty or input-only code until an implemented algorithm can be identified; no accepted solution is inferred.
