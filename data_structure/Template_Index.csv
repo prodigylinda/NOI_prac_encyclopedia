@@ -1,6 +1,6 @@
 "Kind","Problem","Source","Destination","SHA256","Notes"
 "Original_Template","","data_structure\linear_structure\array.cpp","Arrays\Templates\array.cpp","1D7D7F4A392B8D872E71F96C54D7CDE23E42E409815877FCF43D5AF27EC76AC3","Basic array example; original content retained."
 "Original_Template","","data_structure\linear_structure\list.cpp","Linked_Lists\Templates\list.cpp","FC492E60DE981B1556238589DCED10F4348FE1EF3756123DA586B89FED315C27","Singly linked list example; original content retained."
+"Existing_Source_Example","","source/a/guo\duilie.cpp","Queues\Examples\duilie.cpp","FC72F750985A176F9098725D941A6453A4A83E9CD42CB1484567750836AAF26A","STL queue operations example copied unchanged."
 "Original_Template","","data_structure\sequence\skip-list.cpp","Skip_Lists\Templates\skip-list.cpp","47C2F66A645A8F9FE5E04D7F714068E3F0088EA53C3413A7C1671E07171A4E9A","Skip-list search skeleton; original content retained."
 "Existing_Source_Example","","source/a/guo\zhan.cpp","Stacks\Examples\zhan.cpp","F5A8D49E8EC828F080D4221265B3A78811245BCCD50F284CAAE675B1230525F4","Array-backed stack example copied unchanged."
-"Existing_Source_Example","","source/a/guo\duilie.cpp","Queues\Examples\duilie.cpp","FC72F750985A176F9098725D941A6453A4A83E9CD42CB1484567750836AAF26A","STL queue operations example copied unchanged."
