@@ -4,7 +4,7 @@ Related problems share broad algorithm folders. Avoid one narrow folder per prob
 Greedy_Algorithms separates Sorting_Greedy, Regret_Greedy and Interval_Greedy.
 Basic_Algorithms separates Simulation, Enumeration, Counting, Prefix_Sums and Divide_And_Conquer.
 Bit_Manipulation and String_Algorithms group related problems directly.
-Tree_DP, Counting_DP and Interval_DP remain separate because they use different state structures.
+DP categories are created only for stored implementations. Empty and input-only DP problem files stay under Unclassified/Incomplete.
 Graph_Traversal and Minimum_Spanning_Trees remain separate graph algorithm types.
 Only categories that currently contain problems are shown; empty study placeholders are removed.
 Problem_Index.csv records secondary topics and source status.
@@ -14,3 +14,9 @@ Variants contains different original code versions; all original solution files 
 Executables (.exe, case-insensitive) are excluded from local archives; source folders remain read-only.
 
 Unclassified/Incomplete groups empty or input-only code until an implemented algorithm can be identified; no accepted solution is inferred.
+
+Unclassified/Incomplete also holds empty archives and input-only skeletons even when the intended problem has a known algorithm. Related_Topics describe stored implementations, not unimplemented alternative solutions.
+
+Complete_Knapsack groups implemented ascending amount-reachability updates. A stored boundary defect is documented without altering source or claiming correctness.
+
+Zero_One_Knapsack groups implemented descending-capacity DP updates; incomplete problems are not classified by their expected textbook solution.
